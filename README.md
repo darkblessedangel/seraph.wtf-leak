@@ -5,6 +5,6 @@ this leak(old) version seraph.wtf script for prison life and arsenal!
   - arsenal (use it carefully, it may get banned)
   - prison life (use it carefully, it may get banned)
 
-# MAIN SCRIPT:
+# Main Script:
 
 ->  loadstring(game:HttpGet("https://raw.githubusercontent.com/darkblessedangel/seraph.wtf-leak/refs/heads/main/script.lua"))()  <-
